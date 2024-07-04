@@ -1,0 +1,4 @@
+#EXTINF:-1,Outlander S07E07
+https://play.tubeyrack.com:443/series/c.a.th.eri.neadams7.19@googlemail.com/oais/439471.mkv
+#EXTINF:-1,Outlander S07E08
+https://play.tubeyrack.com:443/series/c.a.th.eri.neadams7.19@googlemail.com/oais/439753.mkv
